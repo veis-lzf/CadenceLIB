@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : R0402.dra                                     )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Fri Jul 03 10:19:30 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Layout/Library/Package
+    Name      = r0402.psm
+    User      = limin
+    Machine   = TIAN-LAPTOP
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,13 @@
+(DEVICE FILE: touch_moudle_sop8)
+
+PACKAGE touch_moudle_sop8
+CLASS DISCRETE
+PINCOUNT 8
+
+PINORDER touch_moudle_sop8  1 2 3 4 5 6 7 8
+
+PINSWAP touch_moudle_sop8  1 2 3 4 5 6 7 8
+
+FUNCTION touch_moudle_sop8 touch_moudle_sop8  1 2 3 4 5 6 7 8
+
+END

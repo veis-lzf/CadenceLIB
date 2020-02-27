@@ -1,0 +1,217 @@
+\t (00:00:01) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:01)     Journal start - Wed Sep 28 10:44:46 2016
+\t (00:00:01)         Host=CID_LAPTOP User=Cid Pid=23428 CPUs=4
+\t (00:00:01) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: Z:/Library/Package/C1210.dra
+\i (00:00:02) trapsize 553
+\i (00:00:02) trapsize 540
+\i (00:00:02) trapsize 556
+\i (00:00:03) trapsize 570
+\i (00:00:03) trapsize 589
+\i (00:00:03) generaledit 
+\i (00:00:09) open 
+\i (00:00:17) fillin "FCI_61082-101400LF.dra"
+\t (00:00:17) Opening existing design...
+\t (00:00:17) Grids are drawn 20.00, 20.00 apart for enhanced viewability.
+\i (00:00:17) trapsize 949
+\d (00:00:17) Database opened: Z:/Library/Package/FCI_61082-101400LF.dra
+\i (00:00:18) generaledit 
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 348.69 -89.04
+\i (00:00:19) trapsize 1898
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in -843.23 2.07
+\i (00:00:20) trapsize 949
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in -843.22 2.08
+\i (00:00:20) trapsize 475
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in -843.22 2.08
+\i (00:00:20) trapsize 237
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in -843.21 2.08
+\i (00:00:20) trapsize 119
+\i (00:00:21) roam start
+\i (00:00:21) roam x -80
+\i (00:00:21) roam x -192
+\i (00:00:21) roam x -48
+\i (00:00:21) roam end
+\i (00:00:23) delete 
+\i (00:00:24) setwindow form.find
+\i (00:00:24) FORM find all_off  
+\i (00:00:25) FORM find text YES 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) pick grid -860.30 5.17
+\t (00:00:26) last pick:  -860.00  5.00
+\t (00:00:26) Text "Np2"
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out -862.91 -10.72
+\i (00:00:27) trapsize 237
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out -861.00 -9.78
+\i (00:00:27) trapsize 475
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out -858.17 -7.88
+\i (00:00:27) trapsize 949
+\i (00:00:28) pick grid -890.67 -258.45
+\t (00:00:28) last pick:  -890.00  -260.00
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 202.72 -47.74
+\i (00:00:29) trapsize 1898
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 1905.43 -47.75
+\t (00:00:29) Grids are drawn 80.00, 80.00 apart for enhanced viewability.
+\i (00:00:29) trapsize 3796
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 975.30 -64.93
+\t (00:00:30) Grids are drawn 20.00, 20.00 apart for enhanced viewability.
+\i (00:00:30) trapsize 1898
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 960.11 -91.50
+\i (00:00:30) trapsize 949
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 954.42 -95.30
+\i (00:00:30) trapsize 475
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 952.52 -96.25
+\i (00:00:30) trapsize 237
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 948.73 -86.75
+\i (00:00:30) trapsize 119
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 901.99 -33.60
+\i (00:00:31) trapsize 237
+\i (00:00:31) roam start
+\i (00:00:31) roam x -112
+\i (00:00:32) roam x -80
+\i (00:00:32) roam end
+\i (00:00:33) pick grid 858.54 2.94
+\t (00:00:33) last pick:  860.00  5.00
+\t (00:00:33) Text "Np1"
+\i (00:00:34) pick grid 949.65 -134.68
+\t (00:00:34) last pick:  950.00  -135.00
+\i (00:00:34) prepopup 959.62 -141.80
+\i (00:00:35) done 
+\i (00:00:35) generaledit 
+\i (00:00:35) pick grid 968.64 -145.12
+\t (00:00:35) last pick:  970.00  -145.00
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out 967.69 -141.80
+\i (00:00:35) trapsize 475
+\i (00:00:35) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 965.78 -141.80
+\i (00:00:36) trapsize 949
+\i (00:00:36) roam start
+\i (00:00:36) roam x -96
+\i (00:00:36) roam x -160
+\i (00:00:36) roam y -16
+\i (00:00:36) roam x -64
+\i (00:00:36) roam x -64
+\i (00:00:36) roam x -48
+\i (00:00:36) roam x -48
+\i (00:00:36) roam x -32
+\i (00:00:36) roam x -16
+\i (00:00:36) roam x -48
+\i (00:00:37) roam x -80
+\i (00:00:37) roam x -64
+\i (00:00:37) roam x -16
+\i (00:00:37) roam x -48
+\i (00:00:37) roam end
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in -807.15 -6.09
+\i (00:00:37) trapsize 475
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in -828.03 -7.04
+\i (00:00:37) trapsize 237
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in -828.03 -7.04
+\i (00:00:37) trapsize 119
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in -828.26 -7.04
+\i (00:00:38) trapsize 59
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out -828.85 -7.04
+\i (00:00:38) trapsize 119
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out -829.09 -7.28
+\i (00:00:38) trapsize 237
+\i (00:00:38) roam start
+\i (00:00:38) roam x -112
+\i (00:00:38) roam x -64
+\i (00:00:39) roam end
+\i (00:00:39) zoom in 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom in -861.72 -3.00
+\i (00:00:39) trapsize 119
+\i (00:00:39) zoom in 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom in -861.72 -3.00
+\i (00:00:39) trapsize 59
+\i (00:00:40) zoom out 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out -861.72 -3.00
+\i (00:00:40) trapsize 119
+\i (00:00:40) zoom out 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out -855.07 -3.24
+\i (00:00:40) trapsize 237
+\i (00:00:41) zoom out 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out -843.20 -3.24
+\i (00:00:41) trapsize 475
+\i (00:00:41) zoom out 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out -723.62 -0.39
+\i (00:00:41) trapsize 949
+\i (00:00:41) roam start
+\i (00:00:42) roam x 96
+\i (00:00:42) roam x 80
+\i (00:00:42) roam end
+\i (00:00:44) save 
+\i (00:00:45) fillin yes 
+\t (00:00:48) Symbol 'fci_61082-101400lf.psm' created.
+\i (00:00:50) create symbol 
+\i (00:00:53) fillin "fci_61082-101400lf.psm"
+\t (00:00:53) Creating package symbol 'Z:/Library/Package/fci_61082-101400lf.psm'.
+\t (00:00:53) Starting Create symbol...
+\i (00:00:55) generaledit 
+\i (00:00:56) create device 
+\i (00:01:00) setwindow form.crdevice
+\i (00:01:00) FORM crdevice dtype IO 
+   (00:01:00) Loading cmds.cxt 
+\i (00:01:01) FORM crdevice done  
+\t (00:01:01) Device file "FCI_61082-101400LF.txt" created.
+
+   (00:01:01) Loading axlcore.cxt 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) generaledit 
+\i (00:02:02) exit 
+\e (00:02:02) Do you want to save the changes you made to Z:/Library/Package/FCI_61082-101400LF.dra?
+\i (00:02:05) fillin yes 
+\t (00:02:07) Symbol 'fci_61082-101400lf.psm' created.
+\t (00:02:08)     Journal end - Wed Sep 28 10:46:53 2016

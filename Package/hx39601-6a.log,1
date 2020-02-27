@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : HX39601-6A.dra                                )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Fri Oct 30 10:15:29 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Layout/Library/Package
+    Name      = hx39601-6a.psm
+    User      = limin
+    Machine   = TIAN-LAPTOP
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

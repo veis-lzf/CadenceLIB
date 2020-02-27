@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SMC_H2R6.dra                                  )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Dec 29 13:35:34 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/kenvin_xu/Desktop/PCB footprint
+    Name      = smc_h2r6.psm
+    User      = kenvin_xu
+    Machine   = KENVIN_XU-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

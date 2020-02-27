@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SOT223_4P_1R8.dra                             )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Fri Feb 26 12:09:09 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Layout/Library/Package
+    Name      = sot223_4p_1r8.psm
+    User      = limin
+    Machine   = TIAN-LAPTOP
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,13 @@
+(DEVICE FILE: ce_5th_d50h80)
+
+PACKAGE ce_5th_d50h80
+CLASS DISCRETE
+PINCOUNT 4
+
+PINORDER ce_5th_d50h80  1 3 4 5
+
+PINSWAP ce_5th_d50h80  1 3 4 5
+
+FUNCTION ce_5th_d50h80 ce_5th_d50h80  1 3 4 5
+
+END

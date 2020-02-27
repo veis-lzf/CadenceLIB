@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SOIC8_1R27_4R9X6_H1R75.dra                    )
+(    Software Version : 16.6-2015S075                                 )
+(    Date/Time        : Tue Jan 03 21:07:42 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Library/Package
+    Name      = soic8_1r27_4r9x6_h1r75.psm
+    User      = Lefty Scorpio
+    Machine   = LEFTYSCORPIO-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,13 @@
+(DEVICE FILE: Keystone501)
+
+PACKAGE Keystone501
+CLASS DISCRETE
+PINCOUNT 2
+
+PINORDER Keystone501  1 2
+
+PINSWAP Keystone501  1 2
+
+FUNCTION Keystone501 Keystone501  1 2
+
+END

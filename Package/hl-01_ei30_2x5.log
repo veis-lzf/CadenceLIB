@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : HL-01_EI30_2X5.dra                            )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Fri Oct 14 14:12:37 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = Z:/Library/Package
+    Name      = hl-01_ei30_2x5.psm
+    User      = Dezhi.Zhan
+    Machine   = DESKTOP-ZHANDZ
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

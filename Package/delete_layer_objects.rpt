@@ -1,0 +1,45 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Database Objects Preventing Layer From Being Deleted             )
+(                                                                     )
+(    Drawing          : PE42424.dra                                   )
+(    Software Version : 16.6S047                                      )
+(    Date/Time        : Mon Dec 14 23:10:15 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Layer being deleted: PACKAGE GEOMETRY/DIM_AREA
+
+    (19.69 77.00) LINE: Package Geometry/Dim_Area 
+    (-100.00 113.00) LINE: Package Geometry/Dim_Area 
+    (-50.00 98.05) LINE: Package Geometry/Dim_Area 
+    (128.00 113.00) LINE: Package Geometry/Dim_Area 
+    (69.69 127.95) LINE: Package Geometry/Dim_Area 
+    (161.00 93.00) TEXT: 19.69 
+    (161.00 93.00) TEXT LINE: 19.69 
+    (468.00 93.00) TEXT: 0.5 
+    (468.00 93.00) TEXT LINE: 0.5 
+    (448.00 93.00) LINE: Package Geometry/Dim_Area 
+    (620.00 93.00) LINE: Package Geometry/Dim_Area 
+    (-30.00 80.00) LINE: Package Geometry/Dim_Area 
+    (30.00 80.00) LINE: Package Geometry/Dim_Area 
+    (-130.00 211.00) LINE: Package Geometry/Dim_Area 
+    (-80.00 196.05) LINE: Package Geometry/Dim_Area 
+    (116.00 211.00) LINE: Package Geometry/Dim_Area 
+    (80.00 225.95) LINE: Package Geometry/Dim_Area 
+    (149.00 191.00) TEXT: 60.00 
+    (149.00 191.00) TEXT LINE: 60.00 
+    (456.00 191.00) TEXT: 1.52 
+    (456.00 191.00) TEXT LINE: 1.52 
+    (436.00 191.00) LINE: Package Geometry/Dim_Area 
+    (654.00 191.00) LINE: Package Geometry/Dim_Area 
+    (80.00 30.00) LINE: Package Geometry/Dim_Area 
+    (80.00 -30.00) LINE: Package Geometry/Dim_Area 
+    (382.00 -48.00) LINE: Package Geometry/Dim_Area 
+    (396.95 -80.00) LINE: Package Geometry/Dim_Area 
+    (382.00 130.00) LINE: Package Geometry/Dim_Area 
+    (367.05 80.00) LINE: Package Geometry/Dim_Area 
+    (121.00 -121.00) TEXT: 60.00 
+
+... 48 total objects preventing delete layer

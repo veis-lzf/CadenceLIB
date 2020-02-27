@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : Sensor_BD_20P_F.dra                           )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed Mar 23 21:16:56 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = Z:/Library/Package
+    Name      = sensor_bd_20p_f.psm
+    User      = Cid
+    Machine   = CID_LAPTOP
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : LSM2_12R7X12R7_H8R5.dra                       )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed Aug 31 09:38:52 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = Z:/Library/Package
+    Name      = lsm2_12r7x12r7_h8r5.psm
+    User      = Dezhi.Zhan
+    Machine   = DESKTOP-ZHANDZ
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

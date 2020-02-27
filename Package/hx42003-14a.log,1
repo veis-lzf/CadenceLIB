@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : HX42003-14A.dra                               )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Fri Oct 30 10:22:19 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Layout/Library/Package
+    Name      = hx42003-14a.psm
+    User      = limin
+    Machine   = TIAN-LAPTOP
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

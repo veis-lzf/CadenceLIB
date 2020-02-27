@@ -1,0 +1,56 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\connector.olb"
+      (Type "Schematic Library"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\connector.olb")
+      (Select "Design Resources" ".\connector.olb" "DP-H"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 441"))
+      (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1655 52 512")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "247 16")
+        (Zoom "133"))
+      (Path "Z:\LIBRARY\SYMBOL\CONNECTOR.OLB")
+      (Package "DVI-D"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1681 78 538")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "247 68")
+        (Zoom "133"))
+      (Path "Z:\LIBRARY\SYMBOL\CONNECTOR.OLB")
+      (Package "DVI-H"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 104 1707 104 564")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "1054 541")
+        (Zoom "248"))
+      (Path "Z:\LIBRARY\SYMBOL\CONNECTOR.OLB")
+      (Package "DP-H")))
+  (MPSSessionName "Dezhi.Zhan"))

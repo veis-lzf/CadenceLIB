@@ -1,0 +1,26 @@
+\t (00:00:00) pad_designer 16.6 P001 (v16-6-112A) Windows 32
+\t (00:00:00)     Journal start - Thu Feb 23 18:08:38 2017
+\t (00:00:00)         Host=DESKTOP-ZHANDZ User=Dezhi.Zhan Pid=10304 CPUs=4
+\t (00:00:00) 
+\i (00:00:03) setwindow form.padedit
+\i (00:00:03) pse_open 
+\i (00:00:13) fillin "v34r20.pad"
+\i (00:00:16) FORM padedit layers  
+\i (00:00:22) FORM padedit crossbox YES 
+\i (00:00:24) FORM padedit stackbox YES 
+\i (00:00:29) FORM padedit parameters  
+\i (00:00:44) pse_open 
+\i (00:00:50) fillin "v42r28.pad"
+\i (00:00:52) FORM padedit layers  
+\i (00:01:00) FORM padedit crossbox YES 
+\i (00:01:16) pse_open 
+\i (00:01:23) fillin "v34r20.pad"
+\i (00:01:28) pse_open 
+\i (00:01:31) fillin "c51d35.pad"
+\i (00:01:38) FORM padedit parameters  
+\i (00:01:44) FORM padedit layers  
+\i (00:02:07) FORM padedit stackbox YES 
+\i (00:02:09) FORM padedit crossbox YES 
+\i (00:02:13) FORM padedit stackbox YES 
+\i (00:02:19) pse_exit
+\t (00:02:19)     Journal end - Thu Feb 23 18:10:58 2017

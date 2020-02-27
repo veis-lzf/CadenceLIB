@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : HX20030-10A.dra                               )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Nov 10 17:09:38 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Layout/Library/Package
+    Name      = hx20030-10a.psm
+    User      = limin
+    Machine   = TIAN-LAPTOP
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SW1_3DIP_12R4X13R4.dra                        )
+(    Software Version : 16.6S047                                      )
+(    Date/Time        : Wed Jul 01 23:46:06 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/Terry/project/CID/Cadence_library/Package
+    Name      = sw1_3dip_12r4x13r4.psm
+    User      = 200307158
+    Machine   = WEWE-WORKPC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

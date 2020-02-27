@@ -1,0 +1,50 @@
+\t (00:00:11) apd 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:11)     Journal start - Mon Apr 10 14:30:26 2017
+\t (00:00:11)         Host=DESKTOP-ZHANDZ User=Dezhi.Zhan Pid=10924 CPUs=4
+\t (00:00:11) 
+\t (00:00:12) Opening existing design...
+\d (00:00:13) Database opened: Z:/Library/Package/SFN-42.dra
+\t (00:00:13) Grids are drawn 4.0000, 4.0000 apart for enhanced viewability.
+\i (00:00:13) trapsize 14334
+\i (00:00:13) trapsize 13763
+\i (00:00:13) trapsize 14390
+\i (00:00:13) trapsize 13780
+\i (00:00:14) trapsize 13780
+\i (00:00:15) generaledit 
+\i (00:00:23) open 
+\i (00:00:44) fillin "MOLEX_472720026.dra"
+\t (00:00:44) Opening existing design...
+\t (00:00:44) Grids are drawn 20.00, 20.00 apart for enhanced viewability.
+\i (00:00:44) trapsize 1113
+\d (00:00:44) Database opened: Z:/Library/Package/MOLEX_472720026.dra
+\i (00:00:45) generaledit 
+\i (00:00:46) zoom out 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom out 1277.77 -872.33
+\i (00:00:46) trapsize 2226
+\i (00:00:46) zoom in 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom in -480.59 -235.75
+\i (00:00:46) trapsize 1113
+\i (00:00:47) zoom in 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom in -320.33 69.18
+\i (00:00:47) trapsize 556
+\i (00:00:53) zoom in 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom in -3.16 -65.47
+\i (00:00:53) trapsize 278
+\i (00:00:53) zoom in 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom in -2.60 -67.14
+\i (00:00:53) trapsize 139
+\i (00:00:54) zoom out 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom out -1.48 -66.30
+\i (00:00:54) trapsize 278
+\i (00:00:54) zoom out 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom out -1.48 -66.31
+\i (00:00:54) trapsize 556
+\i (00:01:54) exit 
+\t (00:01:54)     Journal end - Mon Apr 10 14:32:09 2017

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : TO220-2_H18R8.dra                             )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Dec 29 13:32:10 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/kenvin_xu/Desktop/PCB footprint
+    Name      = to220-2_h18r8.psm
+    User      = kenvin_xu
+    Machine   = KENVIN_XU-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

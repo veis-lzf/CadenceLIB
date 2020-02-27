@@ -1,0 +1,26 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\discrete.olb"
+      (Type "Schematic Library"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (Board_sim_option "VHDL_flow")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\discrete.olb")
+      (Select "Design Resources" ".\discrete.olb" "BSS138"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 335 0 683"))
+      (Tab 0)))
+  (MPSSessionName "12566"))

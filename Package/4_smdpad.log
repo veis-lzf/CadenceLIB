@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : 4_SMDPAD_1X2.dra                              )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Apr 11 16:01:41 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = Z:/Library/Package
+    Name      = 4_smdpad_1x2.psm
+    User      = Dezhi.Zhan
+    Machine   = DEZHIZHAN
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,19 @@
+Reading Layer Conversion File 
+Reading DXF file...
+NOTE: Replacing illegal character $ with X in $MODEL_SPACE.
+NOTE: Replacing illegal character $ with X in $PAPER_SPACE.
+NOTE: Replacing illegal character * with X in *D2.
+NOTE: Replacing illegal character * with X in *D3.
+NOTE: Replacing illegal character * with X in *D4.
+done.
+WARNING: Ignoring zero length segment at (49.9357, 73.5314)
+WARNING: Ignoring zero length segment at (55.2357, 77.9314)
+Layer conversion file: E:/Terry/project/CID/Sino_logo_big_l.cnv
+DXF file: E:/Terry/project/CID/Sino_logo_big.dxf
+BRD file: E:/Terry/project/CID/Cadence_library/Package/#Taaaaau14184.dra
+Update existing design?: NO
+Use default text?: YES
+DXF units: MILLIMETERS
+Design units: MILS
+Design precision: 4
+dxf2a complete.

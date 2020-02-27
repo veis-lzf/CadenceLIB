@@ -1,0 +1,13 @@
+(DEVICE FILE: to-247_v)
+
+PACKAGE to-247_v
+CLASS IO
+PINCOUNT 3
+
+PINORDER to-247_v  1 2 3
+
+PINSWAP to-247_v  1 2 3
+
+FUNCTION to-247_v to-247_v  1 2 3
+
+END

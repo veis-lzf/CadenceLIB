@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SFN-42.dra                                    )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Feb 28 12:15:38 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = Z:/Library/Package
+    Name      = sfn-42.psm
+    User      = Dezhi.Zhan
+    Machine   = DESKTOP-ZHANDZ
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

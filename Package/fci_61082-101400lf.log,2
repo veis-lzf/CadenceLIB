@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : FCI_61082-101400LF.dra                        )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed Sep 28 10:45:39 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = Z:/Library/Package
+    Name      = fci_61082-101400lf.psm
+    User      = Cid
+    Machine   = CID_LAPTOP
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

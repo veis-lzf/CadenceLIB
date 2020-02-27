@@ -1,0 +1,62 @@
+\t (00:00:05) apd 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:05)     Journal start - Tue Feb 28 12:14:59 2017
+\t (00:00:05)         Host=DESKTOP-ZHANDZ User=Dezhi.Zhan Pid=13136 CPUs=4
+\t (00:00:05) 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Database opened: Z:/Library/Package/SFN-42.dra
+\i (00:00:06) trapsize 3370
+\i (00:00:06) trapsize 3308
+\i (00:00:06) trapsize 3381
+\i (00:00:07) trapsize 3445
+\i (00:00:07) trapsize 3445
+\i (00:00:08) generaledit 
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 7.9607 -0.3414
+\i (00:00:08) trapsize 6890
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in -9.7123 -11.5038
+\i (00:00:09) trapsize 3445
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out -9.6434 -11.3660
+\i (00:00:10) trapsize 6890
+\i (00:00:14) define grid 
+\t (00:00:14) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:00:14) generaledit 
+\i (00:00:17) setwindow form.grid
+\i (00:00:17) FORM grid non_etch non_etch_x_grids 1 
+\i (00:00:18) FORM grid non_etch non_etch_y_grids 1 
+\i (00:00:18) FORM grid top subclass_x_grids 1 
+\i (00:00:20) FORM grid top subclass_y_grids 1 
+\i (00:00:21) FORM grid bottom subclass_x_grids 1 
+\i (00:00:22) FORM grid bottom subclass_y_grids 1 
+\i (00:00:22) FORM grid done  
+\i (00:00:26) setwindow pcb
+\i (00:00:26) show measure 
+\i (00:00:27) pick grid -3.2355 30.1132
+\t (00:00:27) last pick:  -3.0000  30.0000
+\i (00:00:30) pick grid -3.0977 -29.9695
+\t (00:00:30) last pick:  -3.0000  -30.0000
+\i (00:00:35) prepopup 46.6497 34.9363
+\i (00:00:36) done 
+\i (00:00:36) generaledit 
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 31.3534 25.8412
+\t (00:00:36) Grids are drawn 4.0000, 4.0000 apart for enhanced viewability.
+\i (00:00:36) trapsize 13780
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in -13.5708 -6.4050
+\i (00:00:37) trapsize 6890
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out -16.7405 -0.8928
+\i (00:00:38) trapsize 13780
+\i (00:00:40) exit 
+\e (00:00:40) Do you want to save the changes you made to SFN-42.dra?
+\i (00:00:42) fillin yes 
+\t (00:00:45) Symbol 'sfn-42.psm' created.
+\t (00:00:46)     Journal end - Tue Feb 28 12:15:39 2017

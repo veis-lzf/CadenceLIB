@@ -1,0 +1,13 @@
+(DEVICE FILE: ind_choke_cta1860)
+
+PACKAGE ind_choke_cta1860
+CLASS DISCRETE
+PINCOUNT 2
+
+PINORDER ind_choke_cta1860  1 8
+
+PINSWAP ind_choke_cta1860  1 8
+
+FUNCTION ind_choke_cta1860 ind_choke_cta1860  1 8
+
+END

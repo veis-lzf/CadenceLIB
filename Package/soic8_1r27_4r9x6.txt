@@ -1,0 +1,13 @@
+(DEVICE FILE: soic8_1r27_4r9x6)
+
+PACKAGE soic8_1r27_4r9x6
+CLASS IC
+PINCOUNT 8
+
+PINORDER soic8_1r27_4r9x6  1 2 3 4 5 6 7 8
+
+PINSWAP soic8_1r27_4r9x6  1 2 3 4 5 6 7 8
+
+FUNCTION soic8_1r27_4r9x6 soic8_1r27_4r9x6  1 2 3 4 5 6 7 8
+
+END

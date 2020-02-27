@@ -1,0 +1,13 @@
+(DEVICE FILE: ind_fft258)
+
+PACKAGE ind_fft258
+CLASS DISCRETE
+PINCOUNT 2
+
+PINORDER ind_fft258  2 3
+
+PINSWAP ind_fft258  2 3
+
+FUNCTION ind_fft258 ind_fft258  2 3
+
+END
